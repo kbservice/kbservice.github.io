@@ -1,0 +1,14 @@
+[DOCUMENTATION]
+ORG_NAME = "Sohwak"
+ORG_GITHUB = "kbservice"
+ORG_URL = "https://kbservice.github.io"
+
+[[CURRENCIES]]
+code="KBSE"
+issuer="GDZGJNLNIVLEJFENDV6W6EUVNA6CJ3UXQ7OAICRZNMV2QFVJMNZBP5HW"
+display_decimals=5
+name="kbservice"
+desc="Wow this is kbservice token on stellar"
+conditions="GAZUA"
+image="https://kbservice.github.io/sohwak.png"
+status = "live"
